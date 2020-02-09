@@ -1,7 +1,7 @@
 :walkthrough: Contract-first API development with a database interface, implemented using CodeReady Workspaces
 :codeready-url: https://codeready-codeready.{openshift-app-host}
 :openshift-url: {openshift-host}/console
-:next-lab-url: https://tutorial-web-app-webapp.{openshift-app-host}/tutorial/dayinthelife-integration.git-developer-track-lab04/
+:next-lab-url: https://tutorial-web-app-webapp.{openshift-app-host}/tutorial/dayinthelife-integration.git-developer-track-vscode-lab04/
 :user-password: openshift
 
 ifdef::env-github[]

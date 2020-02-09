@@ -1,6 +1,6 @@
 :walkthrough: Import an OpenAPI Specification using Apicurio Studio
 :apicurio-studio-url: http://apicurio-studio.{openshift-app-host}
-:next-lab-url: https://tutorial-web-app-webapp.{openshift-app-host}/tutorial/dayinthelife-integration.git-developer-track-lab02/
+:next-lab-url: https://tutorial-web-app-webapp.{openshift-app-host}/tutorial/dayinthelife-integration.git-developer-track-vscode-lab02/
 :user-password: openshift
 
 ifdef::env-github[]
